@@ -2,7 +2,7 @@ function Navbar({ toggleTheme, theme }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary px-4 sticky-top">
       <a className="navbar-brand fw-bold" href="#">
-        Akash Vijay
+        Akashbabu G J
       </a>
 
       <div className="ms-auto d-flex align-items-center gap-3">
