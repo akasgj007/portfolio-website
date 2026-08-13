@@ -3,10 +3,10 @@ export default function About() {
     <section id="about" className="container py-5">
       <h2 className="mb-4">About me</h2>
       <p>
-        I am a Software Developer at HCL Technologies with experience in
-        OutSystems and modern web technologies. I enjoy building web
-        applications using React and continuously improving my problem-solving
-        skills through Data Structures and Algorithms.
+       I'm a Software Developer at HCLTech with 4+ years of experience, specializing in OutSystems and enterprise application development.
+        My experience includes feature development, REST API integration, SQL Server, UI enhancements, deployments, and production troubleshooting 
+        across Telecommunications, Education, and Retail domains.
+        I enjoy building practical solutions, solving complex problems, and continuously learning new technologies.
       </p>
     </section>
   );
